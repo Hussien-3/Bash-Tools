@@ -1,7 +1,3 @@
-# Bash-Tools
-
-Bash-Tools
-
 # Bash Port Scanner
 
 ## Description
